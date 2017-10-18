@@ -1,0 +1,30 @@
+
+
+/* Header  */ 
+
+.headerSub {
+    font-family: 'Baloo Chettan', cursive;
+    letter-spacing: 3px;
+
+}
+
+.headerMain {
+    font-family: 'Baloo Chettan', cursive;
+    color: rgb(226, 222, 204);
+}
+
+.header-content-inner {
+    background-color: rgba(193, 191, 191, .7);
+    border-radius: 25px;
+    
+}
+
+.headerButton {
+    margin-bottom: 2%;
+}
+
+.navColor {
+    color: white;
+}
+
+
